@@ -1,6 +1,8 @@
 # Smart Walker
 
-A health monitoring system for wearable devices that tracks vital signs and environmental conditions using a Raspberry Pi.
+A health monitoring system for wearable devices that tracks vital signs and environmental conditions using a Raspberry Pi
+Team project (4 students, Deggendorf Institute of Technology). Original: https://github.com/Panther1722/Smart-Walker
+My part: heart rate and SpO₂ signal processing.
 
 ## Features
 
